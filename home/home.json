@@ -1,5 +1,7 @@
 [
   {
     "card": {"slug": "slug/do/card"}
-  }
+  },
+
+  "https://raw.githubusercontent.com/pauloricardoprsm/don-adega-data/master/index.json"
 ]
