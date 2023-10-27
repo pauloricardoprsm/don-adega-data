@@ -1,0 +1,130 @@
+[
+    [],
+    [
+        [
+            "p",
+            "Uvas Emblem\u00e1ticas",
+            "text-lg  absolute text-blue-900 font-bold text-base ",
+            {
+                "top": 18,
+                "paddingLeft": 110
+            }
+        ],
+        [
+            "p",
+            "* Touriga Nacional",
+            "  absolute text-blue-900",
+            {
+                "top": 75,
+                "paddingLeft": 137
+            }
+        ],
+        [
+            "p",
+            "* Trincadeira",
+            "  absolute text-blue-900",
+            {
+                "top": 90,
+                "paddingLeft": 137
+            }
+        ],
+        [
+            "p",
+            "* Touriga Franca",
+            "  absolute text-blue-900",
+            {
+                "top": 105,
+                "paddingLeft": 137
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "SABE QUANTAS UVAS EXISTEM S\u00d3 EM PORTUGAL?",
+            " text-blue-900 text-lg font-bold",
+            {
+                "top": 27,
+                "paddingLeft": 50,
+                "lineHeight": 1
+            }
+        ],
+        [
+            "p",
+            "S\u00e3o mais de 250 variedades nativas (aut\u00f3ctones) vin\u00edferas em Portugal. ",
+            "text-right text-blue-950 text-xs    leading-none",
+            {
+                "top": 60,
+                "paddingLeft": 85,
+                "paddingRight": 15
+            }
+        ],
+        [
+            "p",
+            "E grande parte delas voc\u00ea s\u00f3 vai encontrar ali.",
+            "text-right text-blue-950 text-xs    leading-none",
+            {
+                "top": 86,
+                "paddingLeft": 85,
+                "paddingRight": 15
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "Entre pequenos e grandes produtores estima-se que Portugal tenha mais de",
+            "text-center text-blue-900 text-sm     leading-none",
+            {
+                "top": 70,
+                "paddingLeft": 50,
+                "paddingRight": 50,
+                "fontSize": 13
+            }
+        ],
+        [
+            "p",
+            " 2.500 ",
+            "text-center text-blue-900 text-sm    font-semibold",
+            {
+                "top": 108,
+                "paddingRight": 55,
+                "fontSize": 13
+            }
+        ],
+        [
+            "p",
+            "vin\u00edcolas.",
+            "text-center text-blue-900 text-sm    ",
+            {
+                "top": 107,
+                "paddingLeft": 100,
+                "paddingRight": 50,
+                "fontSize": 13
+            }
+        ]
+    ],
+    [],
+    [
+        [
+            "p",
+            "Descubra a ess\u00eancia de Portugal. ",
+            "text-blue-950  font-semibold text-lg leading-tight",
+            {
+                "top": 20,
+                "paddingLeft": 110,
+                "paddingRight": 15
+            }
+        ],
+        [
+            "p",
+            "Em cada ta\u00e7a, experimente os sabores mundialmente conhecidos dos vinhos portugueses.",
+            "text-blue-950    leading-tight",
+            {
+                "top": 70,
+                "paddingLeft": 155,
+                "paddingRight": 15
+            }
+        ]
+    ]
+]

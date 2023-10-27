@@ -1,0 +1,93 @@
+[
+    [],
+    [
+        [
+            "p",
+            "Uma variedade com muitas possibilidades. Como varietal, seus vinhos s\u00e3o frutados e encorpados. Em blends, agregam complexidade e repert\u00f3rio sensorial.",
+            "   text-sm leading-tight",
+            {
+                "top": 15,
+                "paddingLeft": 105,
+                "paddingRight": 15
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "Aromas poss\u00edveis:",
+            "p   font-semibold",
+            {
+                "top": 10,
+                "paddingLeft": 10
+            }
+        ],
+        [
+            "p",
+            "Blueberry, ameixa preta, chocolate, tabaco, pimenta do reino, couro.",
+            "   leading-tight",
+            {
+                "top": 30,
+                "paddingLeft": 10,
+                "paddingRight": 90
+            }
+        ],
+        [
+            "p",
+            "Taninos:",
+            "sabores  ",
+            {
+                "top": 90,
+                "paddingLeft": 15
+            }
+        ],
+        [
+            "p",
+            "Acidez:",
+            "sabores  ",
+            {
+                "top": 105,
+                "paddingLeft": 15
+            }
+        ],
+        [
+            "p",
+            "Corpo:",
+            "sabores  ",
+            {
+                "top": 120,
+                "paddingLeft": 15
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "SYRAH OU SHIRAZ?",
+            "  font-semibold text-right ",
+            {
+                "top": 10,
+                "paddingRight": 65
+            }
+        ],
+        [
+            "p",
+            "TO ESCREVENDO ERRADO?",
+            "  font-semibold text-right ",
+            {
+                "top": 25,
+                "paddingRight": 15
+            }
+        ],
+        [
+            "p",
+            "S\u00e3o a mesma uva. Alguns pa\u00edses chamam de Shiraz enquanto outros usam a palavra Syrah. Obviamente, apresentar\u00e3o caracter\u00edsticas diversas devido ao terroir.",
+            "   text-right text-xs",
+            {
+                "top": 50,
+                "paddingLeft": 120,
+                "paddingRight": 15
+            }
+        ]
+    ]
+]

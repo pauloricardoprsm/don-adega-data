@@ -1,0 +1,159 @@
+[
+    [],
+    [
+        [
+            "p",
+            "Decantar ajuda a oxigenar o vinho e separar sedimentos.",
+            " text-yellow-900     font-semibold",
+            {
+                "top": 15,
+                "paddingLeft": 25,
+                "paddingRight": 60,
+                "fontSize": 13
+            }
+        ],
+        [
+            "p",
+            "Com o vinho fechado, dentro da garrafa, algumas caracter\u00edsticas de aroma e sabor n\u00e3o se desenvolvem. Ent\u00e3o, este contato com o oxig\u00eanio, permite que elas apare\u00e7am.",
+            " text-yellow-900    ",
+            {
+                "top": 60,
+                "paddingLeft": 25,
+                "paddingRight": 45,
+                "fontSize": 13
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "Os sedimentos podem ter v\u00e1rias origens.",
+            "text-right text-yellow-900    ",
+            {
+                "top": 20,
+                "paddingLeft": 60,
+                "paddingRight": 20,
+                "fontSize": 11
+            }
+        ],
+        [
+            "p",
+            "Por exemplo, alguns vinhos n\u00e3o passam por filtragem ap\u00f3s a vinifica\u00e7\u00e3o. E, com isso, peda\u00e7os de semente, por exemplo, podem parar na garrafa.",
+            "text-right text-yellow-900    ",
+            {
+                "top": 50,
+                "paddingLeft": 60,
+                "paddingRight": 20,
+                "fontSize": 11
+            }
+        ],
+        [
+            "p",
+            "Decantar aqui, \u00e9 a seguran\u00e7a de que estes sedimentos n\u00e3o v\u00e3o parar na sua ta\u00e7a.",
+            "text-right text-yellow-900    ",
+            {
+                "top": 115,
+                "paddingLeft": 60,
+                "paddingRight": 20,
+                "fontSize": 11
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "Mas,",
+            "text-yellow-950 text-2xl font-bold  leading-none text-right",
+            {
+                "top": 10,
+                "paddingRight": 20
+            }
+        ],
+        [
+            "p",
+            "quando decantar?",
+            "text-yellow-950 text-xl font-semibold  leading-none text-right",
+            {
+                "top": 35,
+                "paddingRight": 20
+            }
+        ],
+        [
+            "p",
+            "* Vinhos com muito tempo de garrafa antes de abrir;",
+            "text-yellow-950    leading-none",
+            {
+                "top": 55,
+                "paddingLeft": 140,
+                "paddingRight": 5,
+                "fontSize": 10
+            }
+        ],
+        [
+            "p",
+            "* Vinhos mais encorpados (Bordeaux, Toscanos, Barolos e outros);",
+            "text-yellow-950    leading-none",
+            {
+                "top": 85,
+                "paddingLeft": 140,
+                "paddingRight": 5,
+                "fontSize": 10
+            }
+        ],
+        [
+            "p",
+            "* Vinhos jovens e encorpados, pois ajuda a controlar seus taninos, suavizando-os.",
+            "text-yellow-950    leading-none",
+            {
+                "top": 125,
+                "paddingLeft": 140,
+                "paddingRight": 20,
+                "fontSize": 10
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "E por quanto tempo?",
+            "text-yellow-950 text-xl font-bold  ",
+            {
+                "top": 15,
+                "paddingLeft": 15
+            }
+        ],
+        [
+            "p",
+            "* Vinhos de consumo imediato e menos complexos: apenas alguns minutos para que seu buqu\u00ea se revele.",
+            "text-yellow-950    leading-tight",
+            {
+                "top": 50,
+                "paddingLeft": 20,
+                "paddingRight": 60
+            }
+        ],
+        [
+            "p",
+            "* Vinhos mais encorpados: at\u00e9 uma hora.",
+            "text-yellow-950    leading-tight",
+            {
+                "top": 120,
+                "paddingLeft": 20,
+                "paddingRight": 70
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "Para vinhos antigos, com alto teor alco\u00f3lico e longo tempo de reserva: deixe a sedimenta\u00e7\u00e3o acontecer em garrafa fechada por algumas horas. Depois o vinho pode ser colocado no decanter e consumido, pois n\u00e3o precisa de muito oxig\u00eanio para mostrar seu potencial.",
+            "text-yellow-950    ",
+            {
+                "top": 35,
+                "paddingLeft": 20,
+                "paddingRight": 80,
+                "fontSize": 10
+            }
+        ]
+    ]
+]

@@ -1,0 +1,84 @@
+[
+    [],
+    [
+        [
+            "p",
+            "Origin\u00e1ria da sudoeste da Fran\u00e7a, esta variedade encontrou um terroir pra chamar de seu na Argentina",
+            "text-sm  ",
+            {
+                "top": 50,
+                "paddingLeft": 100
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "Aromas poss\u00edveis: ",
+            "font-semibold  ",
+            {
+                "top": 15,
+                "paddingLeft": 10
+            }
+        ],
+        [
+            "p",
+            "cereja preta, framboesa preta, ameixa, especiarias, achocolatado, baunilha e erva-mate.",
+            "  ",
+            {
+                "top": 31,
+                "paddingLeft": 10,
+                "paddingRight": 60
+            }
+        ],
+        [
+            "p",
+            "Taninos:",
+            "  ",
+            {
+                "top": 97,
+                "paddingLeft": 15
+            }
+        ],
+        [
+            "p",
+            "Acidez:",
+            "  ",
+            {
+                "top": 113,
+                "paddingLeft": 15
+            }
+        ],
+        [
+            "p",
+            "Corpo:",
+            "  ",
+            {
+                "top": 128,
+                "paddingLeft": 15
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "MALBEC COM CHURRAS? FICA BOM?",
+            "   font-semibold  ",
+            {
+                "top": 15,
+                "paddingLeft": 130,
+                "paddingRight": 10
+            }
+        ],
+        [
+            "p",
+            "A Malbec \u00e9 encorpada e t\u00e2nica, \u00e9 \u00f3tima acompanhando carnes suculentas como bife ancho e contrafil\u00e9, picanha e costela.",
+            "   text-right text-xs",
+            {
+                "top": 60,
+                "paddingLeft": 150,
+                "paddingRight": 15
+            }
+        ]
+    ]
+]

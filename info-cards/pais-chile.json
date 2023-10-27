@@ -1,0 +1,83 @@
+[
+    [],
+    [
+        [
+            "p",
+            "Alguns dos vinhos mais famosos do mundo nascem neste pa\u00eds com terroirs t\u00e3o diversos que v\u00e3o de des\u00e9rtico ao montanhoso.",
+            "text-blue-900    leading-tight",
+            {
+                "top": 25,
+                "paddingLeft": 65,
+                "paddingRight": 25
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "Apesar de ser muito conhecido pelos seus vinhos de uvas Carmenere, o Chile alcan\u00e7ou a excel\u00eancia em vinhos feitos com a uva Cabernet Sauvignon.",
+            " text-blue-900 leading-none   ",
+            {
+                "top": 60,
+                "paddingLeft": 65,
+                "paddingRight": 35
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "A uva Carmenere era dada como extinta pela Filoxera, inseto que, por volta de 1850, dizimou vin\u00edferas mundo afora.",
+            " text-blue-900 leading-tight   ",
+            {
+                "top": 13,
+                "paddingLeft": 75,
+                "paddingRight": 80
+            }
+        ],
+        [
+            "p",
+            "At\u00e9 que em 1994, ela foi encontrada em meio a vinhas de Merlot, no Chile.",
+            " text-blue-900 leading-tight   ",
+            {
+                "top": 95,
+                "paddingLeft": 75,
+                "paddingRight": 80
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "A produ\u00e7\u00e3o chilena de vinhos \u00e9 umas das maiores do mundo.",
+            "text-blue-900   ",
+            {
+                "top": 30,
+                "paddingLeft": 20,
+                "paddingRight": 180
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "Desfrute toda a diversidade dos vinhos chilenos. ",
+            " text-blue-900  font-semibold leading-tight",
+            {
+                "top": 20,
+                "paddingLeft": 170,
+                "paddingRight": 15
+            }
+        ],
+        [
+            "p",
+            "Nas p\u00e1ginas de nosso site, voc\u00ea encontrar\u00e1 belas amostras da excelencia chilena",
+            " text-blue-900 leading-tight  ",
+            {
+                "top": 70,
+                "paddingLeft": 170,
+                "paddingRight": 15
+            }
+        ]
+    ]
+]

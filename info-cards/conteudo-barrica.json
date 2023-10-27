@@ -1,0 +1,97 @@
+[
+    [],
+    [
+        [
+            "p",
+            "O processo de envelhecimento em barris de carvalho \u00e9 um m\u00e9todo tradicionalmente usado para amadurecer o vinho e dar-lhe caracter\u00edsticas \u00fanicas de sabor, aroma e cor.",
+            "text-xs",
+            {
+                "top": 30,
+                "paddingLeft": 20,
+                "paddingRight": 70
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "Durante o tempo de fermenta\u00e7\u00e3o, o vinho \u00e9 exposto ao oxig\u00eanio atrav\u00e9s dos poros da madeira do barril, permitindo que ocorra uma oxida\u00e7\u00e3o lenta e controlada que pode ajudar a amaciar os taninos do vinho e atribuir caracter\u00edsticas no sabor e no aroma.",
+            "text-xs   text-right ",
+            {
+                "top": 16,
+                "paddingLeft": 85,
+                "paddingRight": 15
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "A madeira de carvalho \u00e9 rica em compostos arom\u00e1ticos, como vanilina e lactonas, que podem ser transferidos para o vinho durante o envelhecimento em barris.",
+            "text-center    ",
+            {
+                "top": 50,
+                "paddingLeft": 65,
+                "paddingRight": 65,
+                "fontSize": 10
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "VINHO BRANCO TAMB\u00c9M PASSA POR BARRICA DE CARVALHO?",
+            "font-semibold   text-base",
+            {
+                "top": 15,
+                "paddingLeft": 15
+            }
+        ],
+        [
+            "p",
+            "Sim. O processo \u00e9 menos comum que no vinho tinto, e tende a ser por per\u00edodos menores. Como o vinho branco \u00e9 mais delicado, a exposi\u00e7\u00e3o prolongada poderia deixar os aromas e sabores da madeira encobrindo os do vinho branco.",
+            "   ",
+            {
+                "top": 70,
+                "paddingLeft": 15,
+                "paddingRight": 45,
+                "fontSize": 10
+            }
+        ]
+    ],
+    [
+        [
+            "p",
+            "Seja em barricas ou grandes ton\u00e9is, a influ\u00eancia do carvalho no vinho modifica a experi\u00eancia sensorial na sua degusta\u00e7\u00e3o.",
+            "text-center     leading-tight",
+            {
+                "top": 25,
+                "paddingLeft": 25,
+                "paddingRight": 25,
+                "fontSize": 12
+            }
+        ],
+        [
+            "p",
+            "Voc\u00ea prefere vinhos com passagem por barrica?",
+            "text-center     font-semibold leading-tight",
+            {
+                "top": 90,
+                "paddingLeft": 25,
+                "paddingRight": 25,
+                "fontSize": 12
+            }
+        ],
+        [
+            "p",
+            "Prefere seu vinho sem essa influ\u00eancia?",
+            "text-center     font-semibold leading-tight",
+            {
+                "top": 130,
+                "paddingLeft": 25,
+                "paddingRight": 25,
+                "fontSize": 12
+            }
+        ]
+    ]
+]
