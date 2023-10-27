@@ -1,0 +1,101 @@
+[
+  [],
+  [],
+  [
+    [
+      "p",
+      "Calma lá, Bátema!",
+      "font-bold  text-neutral-800 leading-none",
+      {
+        "top": 58,
+        "paddingLeft": 180
+      }
+    ],
+    [
+      "p",
+      "Bora falar sobre o que faz a fama dos Cabernet Sauvignon do Chile.",
+      "  text-neutral-800 leading-none",
+      {
+        "top": 75,
+        "paddingLeft": 180
+      }
+    ]
+  ],
+  [
+    [
+      "p",
+      "O clima chileno é pode ser descrito como mediterrâneo, com ",
+      "    text-yellow-950 leading-tight",
+      {
+        "top": 11,
+        "paddingLeft": 70,
+        "paddingRight": 35
+      }
+    ],
+    [
+      "p",
+      "verões quentes e secos e",
+      "  text-yellow-950 font-semibold",
+      {
+        "top": 41,
+        "paddingLeft": 105
+      }
+    ],
+    [
+      "p",
+      "invernos úmidos.",
+      "    text-yellow-950 font-semibold",
+      {
+        "top": 58,
+        "paddingLeft": 70,
+        "paddingRight": 35
+      }
+    ],
+    [
+      "p",
+      "Um ambiente favorável para a Cabernet Sauvignon, que gosta de temperaturas quentes durante a estação de crescimento.",
+      "text-yellow-950    leading-tight",
+      {
+        "top": 80,
+        "paddingLeft": 70,
+        "paddingRight": 35
+      }
+    ]
+  ],
+  [
+    [
+      "p",
+      "Com solos diversos e vários microclimas que afetam o perfil da Cabernet Sauvignon, os vinhos chilenos desta variedade podem variar bastante em sabor e caráter, dependendo da região de cultivo.",
+      "    text-yellow-950",
+      {
+        "top": 45,
+        "paddingLeft": 15,
+        "paddingRight": 15
+      }
+    ]
+  ],
+  [
+    [
+      "p",
+      "A Cabernet Sauvignon chilena ganhou reconhecimento internacional devido à sua qualidade consistente e preço acessível, por isso são bem avaliados e recebem prêmios em competições de vinho. Isto retorna em investimentos na qualidade da uva.",
+      "   leading-none text-center text-yellow-950",
+      {
+        "top": 78,
+        "paddingLeft": 15,
+        "paddingRight": 15
+      }
+    ]
+  ],
+  [
+    [
+      "p",
+      "Estas características ajudam a explicar porque a Cabernet Sauvignon chilena tem um sabor que a diferencia de outros vinhos feitos com a mesma uva em outras regiões.",
+      "   text-black leading-tight",
+      {
+        "top": 35,
+        "paddingLeft": 20,
+        "paddingRight": 105
+      }
+    ]
+  ]
+]
