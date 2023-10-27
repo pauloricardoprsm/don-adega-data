@@ -1,0 +1,76 @@
+[
+  [],
+  [
+    [
+      "p",
+      "O terroir é quem dita as características do vinho de Chardonnay. A localidade e o clima que definem sabores, aromas e acidez nesta versátil uva.",
+      " text-sm   ",
+      {
+        "top": 25,
+        "paddingLeft": 110,
+        "paddingRight": 10
+      }
+    ]
+  ],
+  [
+    [
+      "p",
+      "Aromas possíveis: ",
+      "font-semibold",
+      {
+        "top": 15,
+        "paddingRight": 80,
+        "paddingLeft": 15
+      }
+    ],
+    [
+      "p",
+      "lima, maçã verde, flor de laranjeira, abacaxi, pêssego, manteiga, baunilha.",
+      "",
+      {
+        "top": 30,
+        "paddingRight": 80,
+        "paddingLeft": 15
+      }
+    ],
+    [
+      "p",
+      "Corpo:",
+      "",
+      {
+        "top": 93,
+        "paddingLeft": 15
+      }
+    ],
+    [
+      "p",
+      "Acidez: ",
+      "",
+      {
+        "top": 108,
+        "paddingLeft": 15
+      }
+    ]
+  ],
+  [
+    [
+      "p",
+      "POR QUE CHARDONNAY HARMONIZA COM AVES?",
+      "font-semibold  ",
+      {
+        "top": 15,
+        "paddingLeft": 155
+      }
+    ],
+    [
+      "p",
+      " A cremosidade da Chardonnay complementa aves suaves, enquanto sua acidez corta a gordura, equilibrando os sabores.",
+      "   text-right text-xs",
+      {
+        "top": 70,
+        "paddingLeft": 125,
+        "paddingRight": 15
+      }
+    ]
+  ]
+]

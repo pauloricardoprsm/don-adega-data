@@ -1,0 +1,63 @@
+[
+  [],
+  [
+    [
+      "p",
+      "Os vinhos espanhóis cativam com uma rica herança enológica, refletindo tradição e inovação. Seus sabores distintos e variados, como os intensos Tempranillos e os delicados Albariños, garantem uma experiência sensorial inesquecível.",
+      "   h-48 text-blue-900 leading-tight",
+      {
+        "top": 10,
+        "paddingLeft": 65,
+        "paddingRight": 45
+      }
+    ]
+  ],
+  [
+    [
+      "p",
+      "Para serem chamados de “CRIANZA” os vinhos tintos devem ser envelhecidos por no mínimo 2 anos, sendo que pelo menos 6 meses devem ser em barris de carvalho.",
+      "   text-blue-900 leading-tight",
+      {
+        "top": 50,
+        "paddingLeft": 60,
+        "paddingRight": 10
+      }
+    ]
+  ],
+  [
+    [
+      "p",
+      "Cava é um tipo de vinho espumante produzido em Espanha. Amplamente apreciado por sua qualidade e caráter refrescante",
+      "   text-blue-900 leading-none ",
+      {
+        "top": 20,
+        "paddingLeft": 200,
+        "paddingRight": 15
+      }
+    ]
+  ],
+  [
+    [
+      "p",
+      "Com uma rica diversidade, as uvas espanholas, como Tempranillo, Garnacha e Albariño, são a base para os renomados vinhos espanhóis, cada um refletindo sua própria essência regional.",
+      " text-black   leading-tight",
+      {
+        "top": 30,
+        "paddingLeft": 30,
+        "paddingRight": 50
+      }
+    ]
+  ],
+  [
+    [
+      "p",
+      "Sugestão: Um vinho robusto harmoniza perfeitamente com o sabor rico e salgado do autêntico jamón espanhol",
+      "   text-blue-900 leading-tight",
+      {
+        "top": 5,
+        "paddingLeft": 25,
+        "paddingRight": 20
+      }
+    ]
+  ]
+]

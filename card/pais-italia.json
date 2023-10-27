@@ -1,0 +1,108 @@
+[
+  [],
+  [
+    [
+      "p",
+      "Explore a rica tradição vinícola da Itália, onde história, paixão e diversidade se unem em cada taça.",
+      "text-blue-900    leading-tight",
+      {
+        "top": 20,
+        "paddingLeft": 100,
+        "paddingRight": 40
+      }
+    ],
+    [
+      "p",
+      "Do tradicional ao inovador, você encontra nos vinhos italianos. Provalo qui!",
+      "text-blue-900    leading-tight",
+      {
+        "top": 100,
+        "paddingLeft": 100,
+        "paddingRight": 40
+      }
+    ]
+  ],
+  [
+    [
+      "p",
+      "O país conta com mais de ",
+      "text-blue-900  ",
+      {
+        "top": 50,
+        "paddingLeft": 65
+      }
+    ],
+    [
+      "p",
+      "520 indicações geográficas diferentes.",
+      "text-blue-900 font-semibold  ",
+      {
+        "top": 65,
+        "paddingLeft": 65
+      }
+    ],
+    [
+      "p",
+      " Cada uma com suas peculiaridades, produzindo vinhos diferente e cheios de personalidade.",
+      "text-blue-900   leading-tight",
+      {
+        "top": 82,
+        "paddingLeft": 65
+      }
+    ]
+  ],
+  [
+    [
+      "p",
+      "Barolo, Amarone, Prosecco, Chianti e outros são considerados alguns dos melhores exemplos da tradição vinícola italiana.",
+      "text-blue-900    leading-tight",
+      {
+        "top": 20,
+        "paddingLeft": 75,
+        "paddingRight": 110
+      }
+    ]
+  ],
+  [
+    [
+      "p",
+      "E quando quebram a tradição, produzem vinhos premiadíssimos como os ",
+      "text-black    leading-tight",
+      {
+        "top": 20,
+        "paddingLeft": 25,
+        "paddingRight": 190
+      }
+    ],
+    [
+      "p",
+      "supertoscanos",
+      "text-black font-semibold   ",
+      {
+        "top": 130,
+        "paddingLeft": 25
+      }
+    ]
+  ],
+  [
+    [
+      "p",
+      " Sugestão de harmonização: Alegre, cheia de risadas e bons momentos. ",
+      "text-blue-900  leading-tight  ",
+      {
+        "top": 45,
+        "paddingLeft": 160,
+        "paddingRight": 15
+      }
+    ],
+    [
+      "p",
+      "Mangiare con piacere!",
+      "text-blue-900 font-semibold italic  ",
+      {
+        "top": 110,
+        "paddingLeft": 160
+      }
+    ]
+  ]
+]

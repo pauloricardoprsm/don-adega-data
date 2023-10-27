@@ -1,0 +1,83 @@
+[
+  [],
+  [
+    [
+      "p",
+      "Originária da França, a partir da união de Cabernet Franc e Sauvignon Blanc, é a uva mais plantada no mundo.",
+      "   text-sm ",
+      {
+        "top": 50,
+        "paddingLeft": 110,
+        "paddingRight": 10
+      }
+    ]
+  ],
+  [
+    [
+      "p",
+      "Aromas possíveis:",
+      "font-semibold",
+      {
+        "paddingLeft": 15,
+        "top": 15
+      }
+    ],
+    [
+      "p",
+      "cereja preta, groselha preta, amora, pimenta preta, tabaco, alcaçuz, baunilha e violeta.",
+      "",
+      {
+        "paddingLeft": 15,
+        "top": 35,
+        "paddingRight": 80
+      }
+    ],
+    [
+      "p",
+      "Tanino:",
+      "sabores",
+      {
+        "paddingLeft": 15,
+        "top": 105
+      }
+    ],
+    [
+      "p",
+      "Acidez:",
+      "sabores",
+      {
+        "paddingLeft": 15,
+        "top": 120
+      }
+    ],
+    [
+      "p",
+      "Corpo:",
+      "sabores",
+      {
+        "paddingLeft": 15,
+        "top": 135
+      }
+    ]
+  ],
+  [
+    [
+      "p",
+      "POR QUE CABERNET SAUVIGNON HARMONIZA COM CHURRASCO?",
+      " pr-5  font-semibold",
+      {
+        "top": 12,
+        "paddingLeft": 124
+      }
+    ],
+    [
+      "p",
+      " Os taninos desta uva ajudam a quebrar a gordura da carne bovina grelhada, enquanto a acidez ajuda a cortar o sabor intenso da carne, prolongando o sabor do vinho na boca.",
+      " pr-5  text-right text-xs ",
+      {
+        "top": 70,
+        "paddingLeft": 100
+      }
+    ]
+  ]
+]
